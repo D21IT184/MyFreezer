@@ -1,0 +1,2 @@
+rootProject.name='My Freezer'
+include ':app'
